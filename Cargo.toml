@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+
+members = ["tp01"]
+
+[workspace.package]
+# these settings are used by all the packages in the workspace
+
+# write your name and email
+authors = ["Your Name <your.email@stud.fils.upb.ro"]
+version = "0.1.0"
+rust-version = "1.75"
+edition = "2021"

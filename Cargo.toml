@@ -1,7 +1,7 @@
 [workspace]
 resolver = "2"
 
-members = ["tp01"]
+members = ["tp01", "tp02"]
 
 [workspace.package]
 # these settings are used by all the packages in the workspace

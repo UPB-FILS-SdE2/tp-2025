@@ -1,0 +1,11 @@
+[package]
+name = "tp06"
+authors.workspace = true
+version.workspace = true
+rust-version.workspace = true
+edition.workspace = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nix = "0.26.2"

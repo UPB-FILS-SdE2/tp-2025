@@ -1,0 +1,12 @@
+[package]
+name = "tp08"
+authors.workspace = true
+version.workspace = true
+rust-version.workspace = true
+edition.workspace = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nix = "0.23.1"
+lazy_static = "1.4.0"
